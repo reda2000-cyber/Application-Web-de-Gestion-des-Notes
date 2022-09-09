@@ -1,3 +1,4 @@
 # SpringProject
 
-Voici le code source de la tache Génération du fichier de déliberation .
+Conception et Développement d’une 
+Application Web de Gestion des Notes
